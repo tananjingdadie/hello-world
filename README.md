@@ -1,3 +1,4 @@
 # hello-world
-just another respository
-i love new things! and i love you too!
+just another respository!\n
+i love new things!\n
+and i love you too!
